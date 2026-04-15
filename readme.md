@@ -13,4 +13,4 @@ The files are as follows:
 `present.sh` - Helper shell script for launching the presentation.  
 `slides.md` - The source document for the presentation itself.  
 
-Thank you to [uclug.org/] for hosting me. It was a wonderful experience.
+Thank you to [uclug.org](https://uclug.org/) for hosting me. It was a wonderful experience.
